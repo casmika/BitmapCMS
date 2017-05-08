@@ -1,0 +1,2 @@
+# BitmapCMS
+Color Detection
