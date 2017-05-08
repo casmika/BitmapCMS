@@ -1,0 +1,16 @@
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\BitmapCMS.exe.config
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\BitmapCMS.exe
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\BitmapCMS.pdb
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\AForge.dll
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\AForge.Video.DirectShow.dll
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\AForge.Video.dll
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\AForge.xml
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\AForge.Video.xml
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\bin\Debug\AForge.Video.DirectShow.xml
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\obj\Debug\BitmapCMS.csprojResolveAssemblyReference.cache
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\obj\Debug\BitmapCMS.Form1.resources
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\obj\Debug\BitmapCMS.Properties.Resources.resources
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\obj\Debug\BitmapCMS.csproj.GenerateResource.Cache
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\obj\Debug\BitmapCMS.exe
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\obj\Debug\BitmapCMS.pdb
+E:\KULIAH\sem 8\pisual\BitmapCMS\BitmapCMS\obj\Debug\BitmapCMS.Help.resources
